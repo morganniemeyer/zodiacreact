@@ -1,12 +1,9 @@
 p {
-  color: #e8c4e2;
-  text-align: center;
-  vertical-align: center;
+  color: #c5cccc;
 }
 
 header {
-  background-color: #1c0d4f;
+  background-color: #167f7e;
   height: 50px;
-  text-align: center;
-  vertical-align: center;
+  display: flex;
 }

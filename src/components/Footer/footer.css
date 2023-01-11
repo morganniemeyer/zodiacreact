@@ -1,8 +1,11 @@
 p {
-  color: #e8c4e2;
+  color: #c5cccc;
 }
 
 footer {
-  background-color: #1c0d4f;
+  background-color: #167f7e;
   height: 50px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }

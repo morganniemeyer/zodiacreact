@@ -1,5 +1,5 @@
 import React from 'react';
 
-export default function main() {
-  return <div>main</div>;
+export default function Main() {
+  return <main> holder text</main>;
 }
