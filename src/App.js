@@ -7,7 +7,7 @@ import background from './background.jpg';
 
 function App() {
   return (
-    <div style={{ backgroundImage: `url(${background})` }}>
+    <div className="biggun" style={{ backgroundImage: `url(${background})` }}>
       <Header />
       <Main />
       <Footer />

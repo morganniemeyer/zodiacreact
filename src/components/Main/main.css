@@ -1,7 +1,7 @@
-main {
+.main {
   display: flex;
   flex-wrap: wrap;
-  height: 500px;
-  align-content: flex-start;
-  position: relative;
+  flex-direction: row;
+  gap: 10px;
+  padding: 20px;
 }

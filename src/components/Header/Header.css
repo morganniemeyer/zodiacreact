@@ -1,9 +1,11 @@
 p {
   color: #c5cccc;
+  font-weight: bold;
 }
 
 header {
   background-color: #167f7e;
   height: 50px;
   display: flex;
+  justify-content: center;
 }

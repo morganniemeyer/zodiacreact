@@ -1,8 +1,11 @@
 p {
   color: #c5cccc;
+  font-weight: bold;
 }
 
 footer {
+  display: flex;
+  justify-content: center;
   background-color: #167f7e;
   height: 50px;
   position: fixed;
